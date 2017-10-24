@@ -1,7 +1,7 @@
 DigitalCapCoin integration/staging tree
 ================================
 
-http://www.digitalcapcoin.org
+http://www.digitalcapcoin.com
 
 Copyright (c) 2009-2013 DigitalCapCoin Developers
 
@@ -15,7 +15,7 @@ out collectively by the network. DigitalCapCoin is also the name of the open sou
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the DigitalCapCoin client software, see http://www.digitalcapcoin.org.
+the DigitalCapCoin client software, see http://www.digitalcapcoin.com.
 
 License
 -------
